@@ -7,4 +7,3 @@ sqlalchemy
 langchain
 google-generativeai==0.8.3
 streamlit
-pandas

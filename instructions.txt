@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------------
+Check Python Version
+-----------------------------------------------------------------------------------------------------------
+Open Terminal
+Choose Powershell
+Run the command: python --version
+
+
+-----------------------------------------------------------------------------------------------------------
+How to create virtual environment?
+-----------------------------------------------------------------------------------------------------------
+Open Terminal
+Choose Powershell
+Run the command: python -m venv venv
+Activate the virtual environment using the command: venv\Scripts\activate
+
+
+-----------------------------------------------------------------------------------------------------------
+How to download the packages mentioned in requirements.txt
+-----------------------------------------------------------------------------------------------------------
+Open Terminal
+Choose Powershell
+Run the command: pip install -r requirements.txt
+
+
+-----------------------------------------------------------------------------------------------------------
+How to upgrade pip
+-----------------------------------------------------------------------------------------------------------
+Open Terminal
+Choose Powershell
+Run the command: python.exe -m pip install --upgrade pip
